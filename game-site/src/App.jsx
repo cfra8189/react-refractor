@@ -5,9 +5,9 @@ import './App.css'
 function App() {
 
   return (
-    <div id="homePage" style={{backgroundColor: 'black', minHeight: '100vh', color: 'white'}}>
+    <div id="homePage">
     <main>
-        <h1 style={{color: 'cyan', fontSize: '3em', marginTop: '60px', textAlign: 'center'}}>Welcome to my website</h1>
+        <h1>Welcome to my website</h1>
     </main>
 
     {/* Navigation Bar */}
