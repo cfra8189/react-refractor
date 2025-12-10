@@ -21,7 +21,7 @@ function App() {
             </ul>
         </nav>
     </footer>
-</div>
+    </div>
   )
 }
 
